@@ -1,0 +1,33 @@
+Datetime - Fecha y hora en UTC
+P - Precipitacion (mm)
+T - Temperatura (°C)
+Tmax - Temperatura máxima (°C)
+Tmin - Temperatura mínima (°C)
+SR - Radiacion solar (W/m²)
+RH - Humedad relativa (%)
+BP - Presion barometrica (hPa)
+BPnmm - Presion barometrica en Nivel Medio del Mar (hPa)
+WS - Velocidad del viento (km/h)
+WSu - Velocidad del viento en dirección U (km/h)
+WSv - Velocidad del viento en dirección V (km/h)
+WSmax - Velocidad del viento maxima (km/h)
+WSmin - Velocidad del viento maxima (km/h)
+WD - Direccion del viento (°)
+WDmax - Direccion del viento maxima (°)
+DP - Temperatura de Punto de Rocio (°C)
+Nvl - Nivel en Presa
+B - Voltaje Bateria
+SP - Spanel?
+GT - GTempC?
+TS - TS?
+QFF - QFF?
+SRc - SRcorr?
+SRo - SRorigen?
+RHsub - Humedad relativa comb (%)
+Tsub - Temperatura comb (°C)
+RHsub - Humedad relativa sub (%)
+Tsub - Temperatura sub (°C)
+VPS - VPS?
+VCC - VCC?
+Vis - Vis (Km)?
+DatetimeL - Fecha y hora local
